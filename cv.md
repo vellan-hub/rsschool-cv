@@ -1,39 +1,39 @@
-Curriculum vitae - CV
+# Curriculum vitae - CV
 
-Vitaly Yakubouski
+## Vitaly Yakubouski
 
-Personal information
+### Personal information
 
-Address: 61 Odinthova Street, apt. 76, Minsk, 220108, Belarus
-Telephone: mobile: +375-25-952-0961
-Email: falkon777.13@gmail.com
-Date of birth: 12th March 1991
-Marital status: single
+**Address:** 61 Odinthova Street, apt. 76, Minsk, 220108, Belarus  
+**Telephone:** mobile: +375-25-952-0961  
+**Email:** falkon777.13@gmail.com  
+**Date of birth:** 12th March 1991  
+**Marital status:** single  
 
-Objective
+### Objective
 
 Get professional skills in writing quality code. Work with big and interesting projects.
 
-Personal qualities
+### Personal qualities
 
-commitment
-patience
-attention to detail
+  + commitment
+  + patience
+  + attention to detail
 
-Work experience
+### Work experience
 
 Don't have real job experience. But I have qualities to fast learn and strong desire become good specialist.
 
-Skills
+### Skills
 
-HTML5/CSS3 basic
-JavaScript basic
+**HTML5/CSS3** basic  
+**JavaScript** basic
 
-Education
+### Education
 
 Don't have specialized education.
 
-Language skills
+### Language skills
 
-Russian native
-English A2
+**Russian** native  
+**English** A2
